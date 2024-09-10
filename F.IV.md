@@ -1,24 +1,34 @@
----
-title: Home
----
-"Markdown" is the syntax language for github
-# Home
+# Title: Team Report 1
 
-## Introduction
+Project Name: Fan IV
+
+Team 301
+
+Members: Marcus Perez, 
+
+9/9/2024
+
+ASU - EGR 314 - Professor Nichols
+
+"Markdown" is the syntax language for github
+
+## Team Organization
+
+## User Needs, Benchmarkings, and Requirements
 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## Design Ideation
 
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
 
-## Background
+## Presentation 1
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption]
 
 [link to background](/background)
 
