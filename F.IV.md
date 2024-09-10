@@ -12,24 +12,25 @@ ASU - EGR 314 - Professor Nichols
 
 "Markdown" is the syntax language for github
 
-# [Team Organization](docs../Team Organization.md)
+# Team Organization
 
+# User Needs, Benchmarkings, and Requirements
 
-User Needs, Benchmarkings, and Requirements
+# Design Ideation
 
-
+# Presentation 1
 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
-# Design Ideation
+
 
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
 
-# Presentation 1
+
 
 ![Screenshot 2024-09-06 164532](https://github.com/user-attachments/assets/acb6f05d-06cd-42ef-adb0-f5788a68f68a)
 
