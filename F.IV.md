@@ -12,10 +12,10 @@ ASU - EGR 314 - Professor Nichols
 
 "Markdown" is the syntax language for github
 
-# [Team Organization](Team Organization.md)
+[Team Organization](Team Organization.md)
 
 
-# User Needs, Benchmarkings, and Requirements
+User Needs, Benchmarkings, and Requirements
 
 1. Voice of the Customer Benchmarking
 * Commercial product relation: Fan with thermostat control
