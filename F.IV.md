@@ -12,7 +12,7 @@ ASU - EGR 314 - Professor Nichols
 
 "Markdown" is the syntax language for github
 
-# [Team Organization](docs/Team Organization.md)
+# [Team Organization](docs./Team Organization.md)
 
 
 User Needs, Benchmarkings, and Requirements
