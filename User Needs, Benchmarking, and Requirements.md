@@ -133,3 +133,23 @@ Latent - Optional but brainstorming
 * Ability to monitor and manage the radar system remotely.
 * Interactive and real-time visual displays of storm activity.
 * Product can be customized to optimal settings for user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
