@@ -67,7 +67,6 @@ Top 5 Related Products
 
 1. User Needs - Jam Board
 <picture>
-![Screenshot 2024-09-04 234802](https://github.com/user-attachments/assets/33c87eda-2492-4792-b992-dcf11e410f8f)
 
 Explicit - Primary Functions
 * Need to be able to be used by anyone
