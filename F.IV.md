@@ -19,3 +19,4 @@ ASU - EGR 314 - Professor Nichols
 # [Design Ideation](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/Design%20Ideation.md)
 
 # Presentation 1
+[Video](https://youtu.be/wOvHd0y5Ork)
