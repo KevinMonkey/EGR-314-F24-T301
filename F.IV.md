@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-
+"Markdown" is the syntax language for github
 # Home
 
 ## Introduction
