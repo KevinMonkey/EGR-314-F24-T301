@@ -1,4 +1,4 @@
-# Title: Team Report 1
+# Title: Team Report Checkpoint 1
 
 Project Name: Fan IV
 
