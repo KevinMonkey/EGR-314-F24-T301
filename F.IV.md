@@ -10,8 +10,6 @@ Members: Marcus Perez,
 
 ASU - EGR 314 - Professor Nichols
 
-"Markdown" is the syntax language for github
-
 # [Team Organization](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/Team%20Organization.md)
 
 # [User Needs, Benchmarkings, and Requirements](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/UserNeeds.md)
