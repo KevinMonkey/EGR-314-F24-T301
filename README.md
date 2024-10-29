@@ -10,7 +10,7 @@ Members: Marcus Perez,
 
 ASU - EGR 314 - Professor Nichols
 
-# [Team Organization](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/Team%20Organization.md)
+# [Team Organization Sheet](https://github.com/user-attachments/files/17550915/3x4.Team.Organization.Charter.pdf)
 
 # [User Needs, Benchmarkings, and Requirements](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/UserNeeds.md)
 
