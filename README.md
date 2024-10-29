@@ -14,7 +14,7 @@ ASU - EGR 314 - Professor Nichols
 
 # [User Needs, Benchmarkings, and Requirements Sheet](https://github.com/user-attachments/files/17550921/User.Needs.Benchmarking.and.Requirements.pdf)
 
-# [Design Ideation](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/Design%20Ideation.md)
+# [Design Ideation Sheet](https://github.com/user-attachments/files/17550933/Design.Ideation.pdf)
 
 # Presentation 1
 [Video](https://youtu.be/wOvHd0y5Ork)
