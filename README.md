@@ -12,7 +12,7 @@ ASU - EGR 314 - Professor Nichols
 
 # [Team Organization Sheet](https://github.com/user-attachments/files/17550915/3x4.Team.Organization.Charter.pdf)
 
-# [User Needs, Benchmarkings, and Requirements](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/UserNeeds.md)
+# [User Needs, Benchmarkings, and Requirements Sheet](https://github.com/user-attachments/files/17550921/User.Needs.Benchmarking.and.Requirements.pdf)
 
 # [Design Ideation](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/Design%20Ideation.md)
 
